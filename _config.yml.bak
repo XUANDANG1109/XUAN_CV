@@ -13,11 +13,11 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /test_cv/
-title: Mong Phan's Resume
-name: Mong Phan
-email: mongphantan@gmail.com
-email_full: 
+baseurl: /vitae/
+title: Chris Turner's Resume
+name: Chris Turner
+email: christurner@me.com
+email_full: mailto:youremail@me.com
 website: github.io/sustain
 website_full: https://jekyllt.github.io/sustain
 github: trending
