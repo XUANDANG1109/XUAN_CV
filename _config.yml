@@ -23,12 +23,12 @@ website_full:
 github: trending
 twitter: twitter
 tel: +84 xxxx xxx xxx
-tel_full: tel:
+tel_full: tel: +84 xxxx xxx xxx
 google_maps: 
 address:
   street: abc
   postcode: 7000000
-  city: Hco Chi Minh
+  city: Ho Chi Minh
   country: Vietnam
 google_analytics: UA-69300817-1
 
