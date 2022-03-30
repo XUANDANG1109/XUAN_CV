@@ -13,7 +13,7 @@ author: Fábio Madeira
 # edit this section with your information
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /test_cv/
+baseurl: /my_CV/
 title: Mong Phan's Resume
 name: Mong Phan
 email: mongphantan@gmail.com
