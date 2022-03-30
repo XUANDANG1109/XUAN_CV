@@ -18,18 +18,18 @@ title: Mong Phan's Resume
 name: Mong Phan
 email: mongphantan@gmail.com
 email_full: 
-website: github.io/sustain
-website_full: https://jekyllt.github.io/sustain
+website: 
+website_full: 
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+tel: +84 xxxx xxx xxx
+tel_full: tel:
+google_maps: 
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: abc
+  postcode: 7000000
+  city: Hco Chi Minh
+  country: Vietnam
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
