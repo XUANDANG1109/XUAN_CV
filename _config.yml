@@ -14,19 +14,18 @@ author: Fábio Madeira
 # jekyllt.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /XUAN_CV/
-title: Mong Phan's Resume
-name: Mong Phan
-email: mongphantan@gmail.com
+title: Xuan Dang's Resume
+name: Xuan Dang
+email: dangthilinhxuan@gmail.com
 email_full: 
 website: 
 website_full: 
 github: trending
 twitter: twitter
-tel: +84 xxxx xxx xxx
-tel_full: tel:+840000000000
+tel: +84 825 997 200
 google_maps: 
 address:
-  street: ABC street
+  street: 2A, Ho Chi Minh
   postcode: 7000000
   city: Ho Chi Minh
   country: Vietnam
